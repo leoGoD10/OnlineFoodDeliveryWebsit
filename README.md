@@ -24,3 +24,11 @@
   <li>Install Dependencies: If using a framework or package manager, follow the specific installation instructions.</li>
  <li>Run the Development Server: Start the development server using the appropriate command for your chosen technology.</li>
 </ol>
+<h2>Contributing</h2>
+<p>We welcome contributions from the community. If you'd like to contribute, please follow these guidelines:</p>
+<ol type = "1">
+  <li>Fork the Repository: Create a fork of the project on GitHub.</li>
+  <li>Create a Branch: Create a new branch for your feature or bug fix.</li>
+  <li>Make Changes: Implement your changes and commit them.</li>
+  <li>Submit a Pull Request: Send a pull request to the main repository, describing your changes.</li>
+</ol>
